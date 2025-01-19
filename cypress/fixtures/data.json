@@ -1,0 +1,19 @@
+{
+  "homePageTitle": "Log On",
+  "email": "lakshanya@yopmail.com",
+  "footerLink" : "Find your nearest HSBC branch or ATM",
+  "branchesPageTitle": "Branches & ATMs",
+  "postcodeOrTownInput": "India",
+  "branchLocation" : "Rajbhavan Road",
+  "privacyPageTitle" : "Privacy Statement",
+  "firstCreditCardOption" : "HSBC Premier Credit Card",
+  "redColorHex" : "rgb(219, 0, 17)",
+  "homePageURL" : "https://www.hsbc.co.in/",
+  "PrivacyHeader" : "Privacy Statement",
+  "CreditHeader" : "Credit cards",
+  "Card1Title" :"Visa Platinum Credit Card",
+  "Card2Title" :"Premier Credit Card",
+  "Card3Title" :"Live+ Credit Card",
+  "CardPopUpTitle" :"Select cards to compare"
+
+}
